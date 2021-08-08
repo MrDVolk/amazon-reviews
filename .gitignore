@@ -2,3 +2,7 @@
 wiki-news-300d-1M.vec.zip
 fasttext.wiki-news-300d-1M.vec
 .ipynb_checkpoints/amazon-reviews-classification-checkpoint.ipynb
+model/best_weights_val_f1.hdf5
+model/input-map.json
+model/input-sequence-length.txt
+model/output-map.json
